@@ -29,6 +29,8 @@ Jira project: **BEND System Analysis & Design** (Jira-generated key: `SCRUM`).
 | Task 3 | [SCRUM-7](https://mahmoudelbendary025.atlassian.net/browse/SCRUM-7) | Cash Flow Analysis | Reviewed; forecast assumptions require validation | [Task-3](Task-3) |
 | Task 4 | [SCRUM-8](https://mahmoudelbendary025.atlassian.net/browse/SCRUM-8) | Methodology Selection & Justification | Reviewed; sponsor approval pending | [Task-4](Task-4) |
 
+**Current Jira workflow state:** SCRUM-5, SCRUM-6, SCRUM-7 and SCRUM-8 are currently **To Do**. Their descriptions and acceptance criteria have been reviewed and aligned with the documents; they have not been moved to Done because sponsor approval and real-world validation are still pending. [Open the filtered Jira view for all four tasks](https://mahmoudelbendary025.atlassian.net/issues/?jql=project%20%3D%20SCRUM%20AND%20key%20in%20(SCRUM-5%2C%20SCRUM-6%2C%20SCRUM-7%2C%20SCRUM-8)%20ORDER%20BY%20key%20ASC).
+
 ## Remaining project tasks
 
 | Task | Topic | Status | Folder |
